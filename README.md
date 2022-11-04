@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @clayltonD
 - 👀 I’m interested in aprender
 - 🌱 I’m currently learning 
-- 💞️ I’m looking to collaborate on comtudo que eu puder fazer
+- 💞️ I’m looking to collaborate on com tudo que eu puder
 - 📫 How to reach me pelo github
 
 <!---
